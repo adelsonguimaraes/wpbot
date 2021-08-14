@@ -8,7 +8,7 @@ import json
 import re
 
 # abrir o navegador
-#webbrowser.open_new("https://webwhatsapp.com/")
+webbrowser.open_new("https://webwhatsapp.com/")
 number_contact = ""
 message = ""
 
